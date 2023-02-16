@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+	DTD(Document Type Definition)
+	 - 작성한 문서가 어떤 문서인지에 대해서 정의해 놓은 것
+	 - 하나의 시스템 내에서 사용할 xml 데이터의 구조를 정의하여 유효성을 점검시 사용하는 태그
+ -->
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  
+  <!-- namespace명은 패키지명을 포함해서 dao 인터페이스 이름으로 작성하는 것이 관례이다.
+ 		namespace 명은 mapper들을 구분하는데 식별자로 사용이 된다. 
+   -->
+  <mapper namespace="com.sanggym.trainer.sang_TrainerDAO">
+	
+		
+
+  </mapper>
